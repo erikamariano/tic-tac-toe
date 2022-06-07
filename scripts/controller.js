@@ -1,4 +1,4 @@
-//This is the interface that makes the connection with backend and frontend, it's the Model View Controller.
+//This is the interface that makes the connection with backend and frontend, it's the Model View Controller pattern.
 //This file is called with the moves of the players.
 
 
